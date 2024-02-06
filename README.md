@@ -1,30 +1,18 @@
-# vysion_app
+# NewVision
 
-Be your best self
+Este proyecto es un punto de partida para una aplicación Flutter que sigue el tutorial de gestión de estado de aplicaciones simples.
 
-## Getting Started
-
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
-
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obtener ayuda para empezar con el desarrollo de Flutter, consulta la documentación en línea (https://flutter.dev/docs), que ofrece tutoriales, ejemplos, orientación sobre el desarrollo móvil y una referencia completa de la API.
 
 ## Assets
 
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
+El directorio de recursos alberga imágenes, fuentes y cualquier otro archivo que desees incluir en tu aplicación.
 
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
+El directorio assets/images contiene imágenes adaptadas a diferentes resoluciones 
+(https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
 
-## Localization
+## Localizacion
 
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+Este proyecto genera mensajes localizados basados en archivos arb encontrados en el directorio lib/src/localization.
+Para admitir idiomas adicionales, visita el tutorial sobre la internacionalización de aplicaciones Flutter.
+(https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
